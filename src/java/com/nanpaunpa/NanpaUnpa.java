@@ -5,12 +5,6 @@ import java.util.ArrayDeque;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
-
-import static com.nanpaunpa.NanpaUnpa.FIVE;
-import static com.nanpaunpa.NanpaUnpa.ONE;
-import static com.nanpaunpa.NanpaUnpa.PERIOD;
-import static com.nanpaunpa.NanpaUnpa.TWO;
-
 import java.io.FileNotFoundException;
 
 public class NanpaUnpa {
